@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_mobile_price/experiments/mlruns/533324017038469698/models/m-6acc8e8dfdfd4eec9f9a9cfb61bc3fda/artifacts
+creation_timestamp: 1777046137748
+experiment_id: '533324017038469698'
+last_updated_timestamp: 1777046141152
+model_id: m-6acc8e8dfdfd4eec9f9a9cfb61bc3fda
+model_type: null
+name: logistic_regression
+source_run_id: 536d99f0240f492497d203f3d03b5333
+status: 2
+status_message: null

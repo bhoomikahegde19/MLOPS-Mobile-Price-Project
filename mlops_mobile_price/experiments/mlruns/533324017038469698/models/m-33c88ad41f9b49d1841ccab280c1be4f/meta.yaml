@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_mobile_price/experiments/mlruns/533324017038469698/models/m-33c88ad41f9b49d1841ccab280c1be4f/artifacts
+creation_timestamp: 1777046133769
+experiment_id: '533324017038469698'
+last_updated_timestamp: 1777046137500
+model_id: m-33c88ad41f9b49d1841ccab280c1be4f
+model_type: null
+name: random_forest
+source_run_id: 9502faeffa5d47409dc26be1aabc3385
+status: 2
+status_message: null

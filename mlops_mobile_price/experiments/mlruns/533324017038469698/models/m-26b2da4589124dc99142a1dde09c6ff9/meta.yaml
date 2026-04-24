@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_mobile_price/experiments/mlruns/533324017038469698/models/m-26b2da4589124dc99142a1dde09c6ff9/artifacts
+creation_timestamp: 1777046105437
+experiment_id: '533324017038469698'
+last_updated_timestamp: 1777046110691
+model_id: m-26b2da4589124dc99142a1dde09c6ff9
+model_type: null
+name: linear_regression
+source_run_id: 43c95a627ce84791b3cdac1c61b044b7
+status: 2
+status_message: null

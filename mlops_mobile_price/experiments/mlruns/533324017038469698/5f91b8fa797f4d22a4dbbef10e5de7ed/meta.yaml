@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_mobile_price/experiments/mlruns/533324017038469698/5f91b8fa797f4d22a4dbbef10e5de7ed/artifacts
+end_time: 1777046187135
+entry_point_name: ''
+experiment_id: '533324017038469698'
+lifecycle_stage: active
+run_id: 5f91b8fa797f4d22a4dbbef10e5de7ed
+run_name: linear_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777046181994
+status: 3
+tags: []
+user_id: ADMIN

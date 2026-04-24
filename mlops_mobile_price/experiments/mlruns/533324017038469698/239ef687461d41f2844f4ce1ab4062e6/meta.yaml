@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_mobile_price/experiments/mlruns/533324017038469698/239ef687461d41f2844f4ce1ab4062e6/artifacts
+end_time: 1777046137627
+entry_point_name: ''
+experiment_id: '533324017038469698'
+lifecycle_stage: active
+run_id: 239ef687461d41f2844f4ce1ab4062e6
+run_name: lstm_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777046137530
+status: 3
+tags: []
+user_id: ADMIN
