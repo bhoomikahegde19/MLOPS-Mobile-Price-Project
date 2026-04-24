@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_project/experiments/mlruns/787729746932136392/e6e00f88e07a47c3927bee5157a7d118/artifacts
+end_time: 1777049944347
+entry_point_name: ''
+experiment_id: '787729746932136392'
+lifecycle_stage: active
+run_id: e6e00f88e07a47c3927bee5157a7d118
+run_name: ner
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777049943892
+status: 3
+tags: []
+user_id: ADMIN

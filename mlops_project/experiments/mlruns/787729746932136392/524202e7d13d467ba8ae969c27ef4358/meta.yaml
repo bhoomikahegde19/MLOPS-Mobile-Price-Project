@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_project/experiments/mlruns/787729746932136392/524202e7d13d467ba8ae969c27ef4358/artifacts
+end_time: 1777045298185
+entry_point_name: ''
+experiment_id: '787729746932136392'
+lifecycle_stage: active
+run_id: 524202e7d13d467ba8ae969c27ef4358
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777045292190
+status: 3
+tags: []
+user_id: ADMIN

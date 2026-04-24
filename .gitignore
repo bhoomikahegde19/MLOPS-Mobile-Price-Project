@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+.vscode/
+artifacts/
+experiments/mlruns/
+data/train.csv
+.server.pid
+*.log

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_project/experiments/mlruns/787729746932136392/8d844a3000ab4625bf6cd0ae3cd05a48/artifacts
+end_time: 1777045292175
+entry_point_name: ''
+experiment_id: '787729746932136392'
+lifecycle_stage: active
+run_id: 8d844a3000ab4625bf6cd0ae3cd05a48
+run_name: lstm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777045281368
+status: 3
+tags: []
+user_id: ADMIN

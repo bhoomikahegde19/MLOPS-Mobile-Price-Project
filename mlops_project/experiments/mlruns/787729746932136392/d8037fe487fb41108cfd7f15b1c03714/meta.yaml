@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/MLOPS%20LR%20PROJECT/mlops_project/experiments/mlruns/787729746932136392/d8037fe487fb41108cfd7f15b1c03714/artifacts
+end_time: 1777045210345
+entry_point_name: ''
+experiment_id: '787729746932136392'
+lifecycle_stage: active
+run_id: d8037fe487fb41108cfd7f15b1c03714
+run_name: linear_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777045194005
+status: 3
+tags: []
+user_id: ADMIN
